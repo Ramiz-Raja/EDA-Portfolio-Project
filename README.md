@@ -103,12 +103,3 @@ Save figures in figures/
 
 Output insights and recommendations
 
-Review Outputs
-
-Data Quality Report: reports/Data_Quality_Report.md
-
-Insights: insights/insights.md
-
-Hypotheses: reports/hypotheses.md
-
-Figures: figures/*.png
