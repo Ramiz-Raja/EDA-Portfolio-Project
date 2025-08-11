@@ -1,0 +1,6 @@
+Hypothesis,Observed_Diff,p_value
+Mean price differs between Kids and Men,-1.7569433868953865,0.625
+Return rate differs between App and Mobile,0.001268238235065569,0.7876
+"Discount % differs among top 3 categories ['Kids', 'Men', 'Baby']",0.21970435583425818,0.7933333333333333
+"Rating differs among age groups ['55+', '25-34', '45-54']",1.5708914602227402,0.205
+Delivery days differ between returned and non-returned orders,-0.008929301661464883,0.8688
